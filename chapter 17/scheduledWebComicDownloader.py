@@ -60,5 +60,3 @@ kosThread.start()
 fbfwThread = threading.Thread(target=downloadDailyComicsFbfw)
 comicsThreads.append(fbfwThread)
 fbfwThread.start()
-
-
