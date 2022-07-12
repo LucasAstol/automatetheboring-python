@@ -1,5 +1,5 @@
 #! python3
-# countdown.py - Will start a countdownfrom 60 and playa sound when itgets to 0.
+# countdown.py - Will start a countdownfrom 60 and play a sound when itgets to 0.
 
 import time, subprocess
 
